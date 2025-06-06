@@ -14,7 +14,7 @@ A simple Java game where two AI-controlled bots battle each other on a canvas.
 
 ## Requirements
 
-- **Java Development Kit (JDK) or newer**
+- **Java Development Kit (JDK)8 or newer**
 - **JRE (Java Runtime Environment) for running the application**
 
 ---
