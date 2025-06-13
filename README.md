@@ -1,6 +1,6 @@
 # AIBattleBots
 
-A simple Java game where two I-controlled bots battle each other on a canvas.
+A simple Java game where two AI-controlled bots battle each other on a canvas.
 
 
 ## Features
